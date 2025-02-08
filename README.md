@@ -13,3 +13,4 @@ Same like [class-dump](https://github.com/nygard/class-dump)
 ./class-dump -H <Macho-O path> -o <output path>
 ```
 If you want to replace your class-dump, you should first use `which class-dump` to check the path where your class-dump is located and make sure it is replaced in the correct path.
+[<img src="https://api.gitsponsors.com/api/badge/img?id=672689563" height="20">](https://api.gitsponsors.com/api/badge/link?p=+WqdZTAky7/nDdJzNZRRrRUOquz4rQd4DX8VibXyvieXEAzO/aFs5CwleF4Sxq1ThBd08nt7SPT2JnXxAtS7uglN0dyNZAYhalGAM2b6/gdoifZKn6cfxI47p4RBHUQ+/myd0mvw2GjxsPxxtEuNRA==)
