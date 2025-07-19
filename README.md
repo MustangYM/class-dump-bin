@@ -14,3 +14,13 @@ Same like [class-dump](https://github.com/nygard/class-dump)
 ```
 If you want to replace your class-dump, you should first use `which class-dump` to check the path where your class-dump is located and make sure it is replaced in the correct path.
 [<img src="https://api.gitsponsors.com/api/badge/img?id=892074324" height="20">](https://api.gitsponsors.com/api/badge/link?p=+FA6fFKsHHp/EF7mWRlV+lRPh/EXE5FJbaiUdnlEVRqB3/gz+Mug3zWA2LG5b5a0nJUxIjLSgXyS1g0E5GVyYIQqoZZrAxDuHg4T8KOwBdC9D3m8PYHhA6UjkHUrjjdeQVQJwqVn7tmFm8I7acYmtg==)
+
+## IF ERROR
+```
+zsh: killed xxxxxx
+```
+Because code signing Expired
+```
+sudo xattr -rd com.apple.quarantine class-dump
+sudo chmod +x class-dump
+```
